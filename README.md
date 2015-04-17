@@ -13,3 +13,5 @@ For compatability with IE 8 and earlier, EPResponsive uses the PIE library. Howe
 The only essensitial file is epresponsive.css
 
 For full documentation and examples visit http://www.ElijahPepin.com
+
+Please like us at http://www.facebook.com/html5responsive
