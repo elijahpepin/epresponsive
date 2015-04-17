@@ -9,4 +9,7 @@ EPResponsive supplies all the classes necessary to adjust an element based on sc
 Yet it allows you to apply each class as you see fit.
 This puts the power of creativity and functionality in the hands of the desiger/coder.
 
+For compatability with IE 8 and earlier, EPResponsive uses the PIE library. However, this is not essential.
+The only essensitial file is epresponsive.css
+
 For full documentation and examples visit http://www.ElijahPepin.com
